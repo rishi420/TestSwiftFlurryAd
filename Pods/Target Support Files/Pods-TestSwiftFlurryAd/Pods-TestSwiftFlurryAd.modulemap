@@ -1,0 +1,6 @@
+framework module Pods_TestSwiftFlurryAd {
+  umbrella header "Pods-TestSwiftFlurryAd-umbrella.h"
+
+  export *
+  module * { export * }
+}

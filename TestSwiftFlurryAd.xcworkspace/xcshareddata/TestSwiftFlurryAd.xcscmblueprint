@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "74AC55DCCE57CE057BFBFB7284088BF463E6EF1C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2019E4C7BE8307AB89630933A054EA02068DB0AD" : 0,
+    "74AC55DCCE57CE057BFBFB7284088BF463E6EF1C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B9C9ADFB-D846-4FDE-84FC-C31128C7B26C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2019E4C7BE8307AB89630933A054EA02068DB0AD" : "..",
+    "74AC55DCCE57CE057BFBFB7284088BF463E6EF1C" : "TestSwiftFlurryAd\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestSwiftFlurryAd",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestSwiftFlurryAd.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/rishi420\/blink_20151101.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2019E4C7BE8307AB89630933A054EA02068DB0AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rishi420\/TestSwiftFlurryAd.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74AC55DCCE57CE057BFBFB7284088BF463E6EF1C"
+    }
+  ]
+}
